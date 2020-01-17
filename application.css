@@ -1,0 +1,20 @@
+body {
+  width: 95%;
+  max-width: 800px;
+  margin: auto;
+  background: url(back.jpg) center;
+
+  font-family: 'Lato';
+  line-height: 1.5;
+
+}
+
+  main {
+    background: #8080807d;
+    padding: 8px 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.logo, .band-name, .headline {
+  text-align: center;

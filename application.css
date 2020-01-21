@@ -16,5 +16,5 @@ body {
     border-radius: 10px;
 }
 
-.logo, .band-name, .headline {
+.logo, .band-name, .cabecalho, .subCabecalho {
   text-align: center;

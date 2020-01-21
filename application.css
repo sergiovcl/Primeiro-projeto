@@ -18,3 +18,8 @@ body {
 
 .logo, .band-name, .cabecalho, .subCabecalho {
   text-align: center;
+}
+
+.recuo {
+  text-indent: 4em;
+}

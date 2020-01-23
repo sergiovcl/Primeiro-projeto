@@ -4,3 +4,5 @@
  */
 
 document.write("Sérgio Vinícius");
+
+document.querySelector("#greetings");

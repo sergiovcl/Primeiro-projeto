@@ -3,6 +3,6 @@
  * @author Sérgio Vinícius de Castro Lima
  */
 
-document.write("Sérgio Vinícius");
+document.write("<br><h4>Muito Obrigado!</h4>");
 
 document.querySelector("#greetings");

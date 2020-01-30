@@ -20,6 +20,11 @@ body {
   text-align: center;
 }
 
+.right {
+  text-align: right;  
+}
+
+
 .recuo {
   text-indent: 4em;
 }
